@@ -1,9 +1,3 @@
-# 1. ติดตั้ง Library ที่จำเป็น
-!pip install streamlit pyngrok feedparser transformers plotly -q
-
-# 2. เขียนโค้ดลงไฟล์ app.py (เราจะไม่รันตรงๆ แต่จะบันทึกเป็นไฟล์ก่อน)
-%%writefile app.py
-
 import streamlit as st
 import feedparser
 import pandas as pd
