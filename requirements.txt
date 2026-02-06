@@ -1,0 +1,7 @@
+streamlit
+pandas
+feedparser
+plotly
+transformers
+torch
+python-dateutil
